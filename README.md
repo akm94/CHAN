@@ -1,6 +1,6 @@
 # CHAN
-One C repo
-Commit
-Commitment
+##One C repo
+###Commit
+My second Commit
 
-i made a change
+i made a change, a big one
